@@ -1,6 +1,3 @@
-## Hi there 👋
-<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/732a2f71fed4513848e33fe58bdcbbc475e7a225c03c3e72e07a26f0ecaf61d5/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e67266865696768743d32303026746578743d576176696e672126666f6e74416c69676e3d383026666f6e74416c69676e593d343026636f6c6f723d6772616469656e74"><img src="https://camo.githubusercontent.com/732a2f71fed4513848e33fe58bdcbbc475e7a225c03c3e72e07a26f0ecaf61d5/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e67266865696768743d32303026746578743d576176696e672126666f6e74416c69676e3d383026666f6e74416c69676e593d343026636f6c6f723d6772616469656e74" alt="Welcome to my repository" data-canonical-src="https://capsule-render.vercel.app/api?type=Welcome to my repository&amp;height=200&amp;text=Welcome to my repository!&amp;fontAlign=80&amp;fontAlignY=40&amp;color=gradient" style="max-width: 100%;"></a></p>
-
 <div>
   <!--Header-->
   ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Good%20to%20see%20you%20%F0%9F%A4%97)
