@@ -5,6 +5,9 @@
 22
 ![header](https://capsule-render.vercel.app/api?type=waving&color=blue&height=100&section=header&text=Good to see you)
 33
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Waving!&fontAlign=80&fontAlignY=40&color=gradient)
+
+
 
 <!--
 **jwp9622/jwp9622** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
