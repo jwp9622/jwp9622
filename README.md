@@ -4,9 +4,9 @@
 ![header](https://capsule-render.vercel.app/api?type=slice)
 22
 ![header](https://capsule-render.vercel.app/api?type=waving&color=blue&height=100&section=header&text=Good to see you)
-33
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Waving!&fontAlign=80&fontAlignY=40&color=gradient)
 
+## Waving <a id="waving">
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Waving!&fontAlign=80&fontAlignY=40&color=gradient)
 
 
 <!--
