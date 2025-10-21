@@ -1,18 +1,11 @@
 <div>
-  <!--Header-->
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Good%20to%20see%20you%20%F0%9F%A4%97)  
+- Hi there Hello!!👋
 </div>
 
 <div>
   <!--Body-->
   
-  ## 👀 About Me
-  #### blog<br/>
-  <br/>
-  <br/>
-  
   ## 🧱 Tech Stack
-  
   <!--JavaScript-->
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
   <!--HTML5-->
@@ -32,8 +25,10 @@
   
   ## 🤔 Github Stats
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jwp9622)](https://github.com/anuraghazra/github-readme-stats)
+  <!--
   <br/>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jwp9622)](https://github.com/anuraghazra/github-readme-stats)
+  !-->
   
 </div>
 
