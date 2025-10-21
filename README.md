@@ -6,7 +6,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=blue&height=100&section=header&text=Good to see you)
 
 ## Waving <a id="Good to see you">
-![waving](https://capsule-render.vercel.app/api?type=waving11&height=200&text=Waving222&fontAlign=80&fontAlignY=40&color=gradient)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Good to see you&fontAlign=80&fontAlignY=40&color=gradient)
 
 
 <!--
