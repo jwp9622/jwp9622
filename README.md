@@ -5,9 +5,10 @@
 22
 ![header](https://capsule-render.vercel.app/api?type=waving&color=blue&height=100&section=header&text=Good to see you)
 
-## Waving <a id="Good to see you">
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Good%2to%2see%2you&fontAlign=80&fontAlignY=40&color=gradient)
-
+<div>
+  <!--Header-->
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Good%20to%20see%20you%20%F0%9F%A4%97)
+</div>
 
 <!--
 **jwp9622/jwp9622** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
