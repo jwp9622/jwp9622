@@ -7,7 +7,7 @@
   <!--Body-->
   
   ## 👀 About Me
-  #### :fire: I aim to become a Cloud AI Engineer.<br/>
+  #### :blog<br/>
   <br/>
   <br/>
   
